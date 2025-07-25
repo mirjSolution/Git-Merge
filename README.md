@@ -79,3 +79,6 @@ git merge master
   - All recent updates from other branches.
   - Your tested and approved bug fix or feature.
   - A clean history with merge commits documenting the integration.
+
+🧑‍💻 _Created by Rico John Dato-on_
+🔗 [LinkedIn](https://www.linkedin.com/in/rico-john-dato-on) • [Portfolio](https://ricodatoon.netlify.app)

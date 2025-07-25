@@ -44,7 +44,7 @@ git checkout bug-fix-branch
 git merge master
 ```
 
-![Merge](Images/merge.png)
+![Merge](Images/merge1.png)
 
 4. Note! when you git merge it will open your editor just save and quit
 
